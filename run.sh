@@ -12,9 +12,9 @@ wget https://raw.githubusercontent.com/hosseinxdns/glowing-fortnight/main/x
 NEW_V2=$(random_name)
 mv x $NEW_V2
 chmod +x $NEW_V2
-wget https://raw.githubusercontent.com/hosseinxdns4/cautious-umbrella/main/q.json
+wget https://raw.githubusercontent.com/hosseinxdns4/cautious-umbrella/main/w.json
 
-echo "./$NEW_V2 run --config=q.json" > bash.sh
+echo "./$NEW_V2 run --config=w.json" > bash.sh
 NEW_SH=$(random_name).sh
 mv bash.sh $NEW_SH
 chmod +x $NEW_SH
